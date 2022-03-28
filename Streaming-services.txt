@@ -48,3 +48,14 @@
 0.0.0.0 cdndaily0.azureedge.net
 0.0.0.0 cdndaily0.azureedge.net
 0.0.0.0 cdndaily0.azureedge.net
+0.0.0.0 www.primevideo.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 play.foxsports.com.mx
+0.0.0.0 www.clarovideo.com
+0.0.0.0 www.blim.com
+0.0.0.0 rakuten.tv
+0.0.0.0 ver.movistarplus.es
+0.0.0.0 www.filminlatino.mx
+0.0.0.0 www.cinepolisklic.com
+0.0.0.0 www.starplus.com
+0.0.0.0 www.hbolatam.com
