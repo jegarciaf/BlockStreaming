@@ -1,0 +1,40 @@
+# Title: streaming-services.txt
+# Released: 2022-03-28T13:05:23+00:00
+# Expires: 2 days
+#
+# Copyright 2022 Jorge García
+0.0.0.0 netflix.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 www.netflix.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.elitegoles.com
+0.0.0.0 elitegoltv.me/
+0.0.0.0 veopartidos.online/
+0.0.0.0 www.elitegol.tv/
+0.0.0.0 www.elitegoltv.org/
+0.0.0.0 www.elitegol.global
+0.0.0.0 redstreamsport.online/
+0.0.0.0 www.pirlotvhd.online/
+0.0.0.0 www.pirlotvhd.net/
+0.0.0.0 www.pirlotv.es/
+0.0.0.0 www.pirlotvonline.net/
+0.0.0.0 futbolpirlotv.net
+0.0.0.0 www.intergoles.me
+0.0.0.0 www.intergoles.net
+0.0.0.0 www.mamahd.org
+0.0.0.0 www.rojadirectaenvivo.es/
+0.0.0.0 wolftm.in
+0.0.0.0 owl-servers3.ovh
+0.0.0.0 wolftm.in
+0.0.0.0 digitalplatinum.in
+0.0.0.0 pandorapremium.ddns.net
+0.0.0.0 iptvesp.eu
+0.0.0.0 iptvadur.eu
+0.0.0.0 hightquality.org
+0.0.0.0 www.sansat.net:25461
+0.0.0.0 qualitypremium.sytes.net:8000
+0.0.0.0 iptvld.paranosotros.ru
+0.0.0.0 gtmservices.org
+0.0.0.0 digitalservices.tel
+0.0.0.0 iptvesp.eu
+0.0.0.0 iptvtool.es
