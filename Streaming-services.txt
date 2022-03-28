@@ -1,6 +1,5 @@
 # Title: streaming-services.txt
 # Released: 2022-03-28T13:05:23+00:00
-# Expires: 2 days
 #
 # Copyright 2022 Jorge García
 0.0.0.0 netflix.com
@@ -31,10 +30,21 @@
 0.0.0.0 iptvesp.eu
 0.0.0.0 iptvadur.eu
 0.0.0.0 hightquality.org
-0.0.0.0 www.sansat.net:25461
-0.0.0.0 qualitypremium.sytes.net:8000
+0.0.0.0 www.sansat.net
+0.0.0.0 qualitypremium.sytes.net
 0.0.0.0 iptvld.paranosotros.ru
 0.0.0.0 gtmservices.org
 0.0.0.0 digitalservices.tel
 0.0.0.0 iptvesp.eu
 0.0.0.0 iptvtool.es
+0.0.0.0 ripi.ddns.net
+0.0.0.0 landiptv.live
+0.0.0.0 iptvtool.es
+0.0.0.0 qualitypremium.sytes.net
+0.0.0.0 iptvesp.eu
+0.0.0.0 movspain.com
+0.0.0.0 iptvesp.eu
+0.0.0.0 playlist.topcam.me
+0.0.0.0 cdndaily0.azureedge.net
+0.0.0.0 cdndaily0.azureedge.net
+0.0.0.0 cdndaily0.azureedge.net
