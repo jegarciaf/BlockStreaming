@@ -105,3 +105,4 @@
 0.0.0.0 cdndaily0.azureedge.net
 0.0.0.0 bluetogo.mx
 0.0.0.0 tntsports.mx
+0.0.0.0 play.hbomax.com
