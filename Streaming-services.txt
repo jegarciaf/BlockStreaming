@@ -106,3 +106,4 @@
 0.0.0.0 bluetogo.mx
 0.0.0.0 tntsports.mx
 0.0.0.0 play.hbomax.com
+0.0.0.0 www.starplus.com/es-mx
