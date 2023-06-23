@@ -226,7 +226,7 @@
 0.0.0.0 sat-mx.org
 0.0.0.0 www.sat-mx.org
 0.0.0.0 www.sat-gob.org
-0.0.0.0 konfio.mx/cita-con-el-sat
+0.0.0.0 konfio.mx
 0.0.0.0 www.sat-sonora.org
 0.0.0.0 www.aduanas-mexico.org
 0.0.0.0 www.aduanasmexico.org
